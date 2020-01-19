@@ -5,7 +5,7 @@
 ***If you like this project, you can give me a cup of coffee. Thanks!*** 
 
 This repository implements Field Oriented Control (FOC) for stock hoverboards. Compared to the commutation method, this new FOC control method offers superior performance featuring:
- - reduced noise and vibrations 	
+ - уменьшенные шум и вибрации 	
  - smooth torque output and improved motor efficiency. Thus, lower energy consumption
  - field weakening to increase maximum speed range
  
